@@ -1,0 +1,16 @@
+{
+  "name": "unity-hotween",
+  "version": "1.2.010",
+  "homepage": "https://github.com/digioak/unity-hotween",
+  "authors": [
+    "Oak Chantosa <o.chantosa@gmail.com>"
+  ],
+  "description": "HOTween tween library for Unity3D",
+  "keywords": [
+    "hotween",
+    "unity",
+    "unity3d",
+    "tween"
+  ],
+  "license": "MIT"
+}
